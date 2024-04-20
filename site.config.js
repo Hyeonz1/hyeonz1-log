@@ -12,14 +12,18 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `EEOS-Econovation Event Operation System`,
-      href: "https://github.com/Hyeonz1/EEOS-AOS",
+      name: `EEOS-Android`,
+      href: "https://github.com/JNU-econovation/EEOS-AOS",
+    },
+    {
+      name: `Forever-Android`,
+      href: "https://github.com/JNU-econovation/forever/tree/android",
     },
   ],
   // blog setting (required)
   blog: {
     title: "hyeonz1",
-    description: "welcome to morethan-log!",
+    description: "welcome to hyeonz1-log!",
   },
 
   // CONFIG configration (required)
