@@ -59,7 +59,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: "Hyeonz1/hyeonz1-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
