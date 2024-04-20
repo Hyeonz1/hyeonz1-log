@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `EEOS-Econovation Event Operation System`,
+      href: "https://github.com/Hyeonz1/EEOS-AOS",
     },
   ],
   // blog setting (required)
